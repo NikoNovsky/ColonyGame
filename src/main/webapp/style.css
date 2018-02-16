@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.ui-button {
+	width: 100%;
+}
+
+.save-button {
+	margin-left: 50%;
+}
+
+.hidden {
+	display: none;
+}
+
+td {
+	width: 120px;
+}
+
+.index {
+	margin-left: 60%;
+}
+
+.form {
+	width: 120px;
+}
+
+html {
+	background-color: #FFFF99;
+}
+
+.texttd {
+	width: 220px;
+}
+
+.hello {
+	text-align: center;
+}
